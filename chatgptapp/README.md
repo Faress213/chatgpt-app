@@ -1,7 +1,7 @@
 # chatgptapp
 
 A new Flutter project.
-
+Don't Forget to add your api key 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
